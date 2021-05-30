@@ -1,4 +1,13 @@
-### Hi there 👋
+### Natural Language Processing Specialist 👋
+
+<div align=right>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sehun-hu-b6b255193/)](https://www.linkedin.com/in/sehun-hu-b6b255193) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseriousran&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![](https://img.shields.io/github/followers/Se-Hun?style=social)
+
+</div>
 
 <!--
 **Se-Hun/Se-Hun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
