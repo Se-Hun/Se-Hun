@@ -11,9 +11,15 @@
 
 </div>
 
-I am a developer interested in developing interfaces✨ that enable efficient human-computer communications.
-I study natural language understanding and general tasks related to natural language processing. Specially, I researched question answering task and summarization.
-Also, I am interested in various studies related to ML/DL/RL.
+### ⚡ Introduction & Research Interests
+
+* I'm a developer interested in developing interfaces✨ that enable efficient human-computer communications.
+* I study natural language understanding and general tasks related to natural language processing.
+* I'm interested in various studies related to ML/DL/RL.
+
+### 📫 Work Experience
+
+* I'm currently working on [ISoft Lab](http://isoft.cnu.ac.kr/) 
 
 [![Se-Hun's github stats](https://github-readme-stats.vercel.app/api?username=Se-Hun&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se-Hun&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
