@@ -15,8 +15,6 @@ I am a developer interested in developing interfaces✨ that enable efficient hu
 I study natural language understanding and general tasks related to natural language processing. Specially, I researched question answering task and summarization.
 Also, I am interested in various studies related to ML/DL/RL.
 
-### Tech Stack
-
 [![Se-Hun's github stats](https://github-readme-stats.vercel.app/api?username=Se-Hun&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se-Hun&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
