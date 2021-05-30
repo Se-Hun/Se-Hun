@@ -1,4 +1,4 @@
-### Natural Language Processing Specialist 👋
+### Se-Hun : NLP(Natural Language Processing) Researcher 👋
 
 <div align=right>
 
@@ -8,6 +8,10 @@
 ![](https://img.shields.io/github/followers/Se-Hun?style=social)
 
 </div>
+
+I am a developer interested in developing interfaces that enable efficient human-computer communications.
+I study natural language understanding and general tasks related to natural language processing. Specially, I researched question answering task and summarization.
+Also, I am interested in various studies related to machine learning or deep learning.
 
 <!--
 **Se-Hun/Se-Hun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
