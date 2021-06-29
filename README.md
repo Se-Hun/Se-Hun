@@ -1,4 +1,4 @@
-### Se-Hun : NLP(Natural Language Processing) Researcher
+### Se-Hun : AI & NLP(Natural Language Processing) Developer
 
 <div align=right>
 
@@ -9,13 +9,15 @@
   
 ![Se-Hun Followers](https://img.shields.io/github/followers/Se-Hun?style=social)
 
+My Tech Blog is [https://se-hun.github.io/](https://se-hun.github.io/)
+  
 </div>
 
 ### ⚡ Introduction & Research Interests
 
 * I'm a developer interested in developing interfaces✨ that enable efficient human-computer communications.
 * I study natural language understanding and general tasks related to natural language processing.
-* I'm interested in various studies related to ML/DL/RL.
+* Also, I'm interested in various studies related to ML/DL/RL.
 
 ### 📫 Work Experience
 
