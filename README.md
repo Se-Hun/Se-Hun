@@ -21,7 +21,6 @@
 ### 📫 Work Experience
 
 * Worked at [ISoft Lab](http://isoft.cnu.ac.kr/) from 2018.12 to 2021.06.
-* I'm currently working on [KISTI](https://www.kisti.re.kr/).
 
 [![Se-Hun's github stats](https://github-readme-stats.vercel.app/api?username=Se-Hun&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se-Hun&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
