@@ -22,8 +22,6 @@
 
 * Worked at [ISoft Lab](http://isoft.cnu.ac.kr/) from 2018.12 to 2021.06.
 
-[![Se-Hun's github stats](https://github-readme-stats.vercel.app/api?username=Se-Hun&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se-Hun&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ⚡ Programming Skills
 
 <p align="left"> 
@@ -52,6 +50,8 @@
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
+
+[![Se-Hun's github stats](https://github-readme-stats.vercel.app/api?username=Se-Hun&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Se-Hun&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Se-Hun/Se-Hun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
