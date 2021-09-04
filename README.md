@@ -20,6 +20,7 @@
 ### 📘 Work Experience
 
 * Worked at [ISoft Lab](http://isoft.cnu.ac.kr/) from 2018.12 to 2021.06.
+* working at [Lomin](https://www.lomin.ai/) from 2021.09 to Current.
 
 ### ⚡ Programming Skills
 
